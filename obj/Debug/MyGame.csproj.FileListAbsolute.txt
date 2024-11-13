@@ -1,0 +1,95 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\movements\main_attack_left_01.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\movements\main_attack_left_02.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\movements\main_attack_right_01.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\movements\main_attack_right_02.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\HUD\HUD_Icon.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\Hologram\enemy.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\Hologram\enemy_attack_left.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\scene\defeat\defeat.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\scene\start_game.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\scene\victory\victory.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\scene\scene.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\fonts\BowlbyOneSC.ttf
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\main_character\main_KO.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\characters\Hologram\enemy_KO.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\music\in_game_music.wav
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\Proyecto Base\bin\Debug\assets\music\start_game_music.wav
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\hologram\enemy.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\hologram\enemy_KO.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\hologram\enemy_attack_left.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\HUD\HUD_Icon.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\main_KO.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\movements\main_attack_left_01.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\movements\main_attack_left_02.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\movements\main_attack_right_01.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\characters\main_character\movements\main_attack_right_02.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\music\in_game_music.wav
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\music\start_game_music.wav
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\scene\defeat\defeat.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\scene\scene.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\scene\victory\victory.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\scene\start_game.png
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\assets\fonts\BowlbyOneSC.ttf
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\MyGame.exe.config
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\MyGame.exe
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\bin\Debug\MyGame.pdb
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\obj\Debug\MyGame.exe
+C:\Users\Mauro\Desktop\U.T Videojuegos\Programación\Unidad 3\HologramasGame.v1.2\obj\Debug\MyGame.pdb
